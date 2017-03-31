@@ -1,5 +1,6 @@
 # fatigue-react-eslint
 Add dependencies for eslint with airbnb react config
+  * babel-eslint
   * eslint
   * eslint-config-airbnb
   * eslint-plugin-import

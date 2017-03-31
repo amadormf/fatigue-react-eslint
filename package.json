@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "name": "fatigue-react-eslint",
   "description": "Add dependencies for eslint with airbnb react config",
   "author": "Amador Mateo <amateofernandez@gmail.com>",
